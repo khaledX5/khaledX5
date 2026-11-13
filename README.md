@@ -28,5 +28,6 @@ I also create **[Codenta](https://www.youtube.com/@codentaforlearn)**, a YouTube
 
 | Project | What it is |
 |---|---|
+| [java-notification-platform](https://github.com/khaledX5/java-notification-platform) | Java 21 + Spring Boot event-driven notification platform: two microservices over Apache Kafka with a transactional outbox, idempotent requests, retry topics with a dead-letter topic and Redis rate limiting, covered by Testcontainers integration and end-to-end tests in CI. |
 | [vo-take-cleaner](https://github.com/khaledX5/vo-take-cleaner) | TypeScript CLI that turns a messy voice-over recording into a clean edit: finds retakes and long pauses from a Whisper transcript and outputs a ready ffmpeg command. |
 | [typescript-subscription-billing-engine](https://github.com/khaledX5/typescript-subscription-billing-engine) | NestJS + TypeScript subscription & billing backend: lifecycle state machine, idempotent renewals and invoices, with unit and HTTP integration tests in CI. |
